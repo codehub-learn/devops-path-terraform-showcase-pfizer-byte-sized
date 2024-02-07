@@ -14,4 +14,4 @@ common_tags = {
   Environment = "Development"
   Tier        = "Landing Zone"
 }
-allowed_hosts = ["178.147.0.0/16"]
+allowed_hosts = ["178.148.0.0/16"]
